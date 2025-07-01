@@ -1,0 +1,101 @@
+genome_id,chromosome,gene_name,mutation_type,mutation_position,mutation_effect,allele_frequency,genetic_disorder,dna_sequence,mutation_date
+1,3,in,insertion,548487,silent,0.84,mutation types,vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus,12/2/2014
+2,6,pellentesque,insertion,557229,missense,0.05,mutation types,sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia,11/3/2019
+3,10,faucibus,insertion,205739,nonsense,0.78,mutation types,tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in,7/1/2015
+4,5,felis,insertion,669506,nonsense,0.26,mutation types,integer ac neque duis bibendum morbi non quam nec dui luctus rutrum,4/20/2000
+5,8,quis,substitution,17760,nonsense,0.86,mutation types,imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing,8/11/2018
+6,9,magna,substitution,112963,silent,0.16,mutation types,in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis,12/8/2022
+7,3,erat,deletion,524210,nonsense,0.02,mutation types,massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim,6/25/2007
+8,9,rutrum,substitution,483048,silent,0.49,mutation types,vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat,8/5/2021
+9,7,sollicitudin,insertion,693034,nonsense,0.79,mutation types,rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id,6/2/2007
+10,4,tellus,substitution,111463,nonsense,0.66,mutation types,sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis,3/3/2019
+11,3,habitasse,substitution,462533,missense,0.45,mutation types,integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc,7/14/2009
+12,5,sit,deletion,323451,missense,0.92,mutation types,varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas,12/26/2017
+13,5,quisque,deletion,127127,missense,0.07,mutation types,nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium,9/25/2003
+14,9,lacinia,substitution,552973,nonsense,0.49,mutation types,ac leo pellentesque ultrices mattis odio donec vitae nisi nam,4/25/2000
+15,3,turpis,insertion,994063,silent,0.1,mutation types,pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar,3/16/2020
+16,9,curae,insertion,184975,missense,0.81,mutation types,elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus,6/28/2009
+17,9,erat,substitution,10835,missense,0.74,mutation types,mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at,3/4/2015
+18,9,interdum,deletion,598950,silent,0.96,mutation types,sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper,12/4/2012
+19,1,etiam,deletion,73148,missense,0.94,mutation types,elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis,7/26/2012
+20,3,integer,deletion,341040,nonsense,0.97,mutation types,habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat,6/3/2018
+21,6,at,insertion,592213,silent,0.88,mutation types,in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum,1/9/2020
+22,2,velit,insertion,355097,nonsense,0.68,mutation types,orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum,4/12/2010
+23,3,eros,insertion,90765,nonsense,0.56,mutation types,pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim,5/30/2012
+24,10,tincidunt,substitution,959791,silent,0.33,mutation types,sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor,9/16/2001
+25,4,neque,insertion,492576,silent,0.36,mutation types,quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et,2/25/2006
+26,10,platea,substitution,478920,silent,0.77,mutation types,tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non,8/16/2015
+27,5,placerat,deletion,817787,silent,1.0,mutation types,interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus,12/10/2013
+28,10,in,deletion,727668,missense,0.32,mutation types,phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla,5/26/2009
+29,7,bibendum,deletion,353876,nonsense,0.21,mutation types,nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed,8/2/2021
+30,5,sapien,insertion,695351,nonsense,0.98,mutation types,posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut,10/11/2021
+31,8,sed,deletion,299560,missense,0.3,mutation types,mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur,8/12/2022
+32,7,semper,deletion,254194,nonsense,0.76,mutation types,diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus,1/7/2021
+33,5,fusce,deletion,749782,nonsense,0.3,mutation types,eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi,9/21/2013
+34,6,facilisi,substitution,381497,nonsense,0.7,mutation types,est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium,12/24/2009
+35,9,ut,deletion,465341,missense,0.21,mutation types,volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea,4/8/2002
+36,10,tellus,insertion,284657,silent,0.12,mutation types,curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque,4/20/2008
+37,8,vulputate,deletion,146102,silent,0.96,mutation types,et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium,8/18/2004
+38,2,pede,deletion,763527,missense,0.04,mutation types,turpis adipiscing lorem vitae mattis nibh ligula nec sem duis,6/5/2014
+39,1,tincidunt,deletion,952251,missense,0.42,mutation types,ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio,9/8/2009
+40,4,et,substitution,64424,nonsense,0.26,mutation types,pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in,7/15/2021
+41,7,mauris,deletion,187140,nonsense,0.5,mutation types,eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec,3/19/2006
+42,3,sociis,deletion,275008,nonsense,0.8,mutation types,vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat,5/6/2022
+43,2,vestibulum,insertion,708898,nonsense,0.49,mutation types,fermentum donec ut mauris eget massa tempor convallis nulla neque libero,11/6/2003
+44,7,condimentum,substitution,911719,silent,0.5,mutation types,nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum,3/24/2010
+45,1,orci,insertion,548514,missense,0.76,mutation types,habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque,3/29/2004
+46,1,suspendisse,substitution,609554,silent,0.86,mutation types,et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc,10/23/2016
+47,9,nulla,insertion,890370,missense,0.96,mutation types,a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue,12/12/2022
+48,7,erat,substitution,853571,missense,0.67,mutation types,sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus,9/18/2003
+49,8,volutpat,insertion,680234,nonsense,0.2,mutation types,augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse,2/8/2004
+50,2,tortor,insertion,406791,silent,0.64,mutation types,sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam,3/17/2019
+51,8,a,deletion,916395,silent,0.94,mutation types,consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non,8/3/2014
+52,9,morbi,deletion,607133,missense,0.92,mutation types,dapibus dolor vel est donec odio justo sollicitudin ut suscipit,9/24/2004
+53,1,at,insertion,224937,missense,0.56,mutation types,turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at,2/10/2021
+54,5,velit,insertion,499652,silent,0.25,mutation types,sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis,1/27/2012
+55,7,morbi,insertion,762704,silent,0.45,mutation types,urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non,12/8/2007
+56,7,fermentum,deletion,49580,nonsense,0.3,mutation types,nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec,10/22/2016
+57,5,massa,substitution,252129,missense,0.21,mutation types,morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis,7/14/2015
+58,6,sapien,substitution,215547,silent,0.11,mutation types,mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet,11/17/2010
+59,5,praesent,substitution,479870,nonsense,0.11,mutation types,maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus,8/5/2004
+60,6,dis,substitution,104655,nonsense,0.97,mutation types,diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus,8/23/2008
+61,10,est,substitution,104423,missense,0.44,mutation types,blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices,1/26/2018
+62,1,dolor,deletion,765417,silent,0.72,mutation types,potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis,8/27/2003
+63,4,id,deletion,347477,nonsense,0.92,mutation types,morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est,1/22/2001
+64,2,pellentesque,deletion,169919,missense,0.75,mutation types,nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et,10/31/2005
+65,10,sit,substitution,522953,missense,0.38,mutation types,duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer,3/16/2012
+66,9,sit,substitution,746514,missense,0.75,mutation types,condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse,8/26/2001
+67,9,pede,substitution,220232,nonsense,0.43,mutation types,justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id,12/21/2009
+68,3,maecenas,substitution,755631,silent,0.85,mutation types,id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat,3/27/2005
+69,6,facilisi,deletion,993061,nonsense,0.15,mutation types,volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in,10/4/2013
+70,9,sit,deletion,384448,missense,0.42,mutation types,pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum,8/30/2016
+71,5,consequat,substitution,663180,silent,0.11,mutation types,eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum,6/9/2004
+72,1,in,substitution,859073,missense,0.48,mutation types,augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus,10/18/2010
+73,6,vivamus,insertion,611770,nonsense,0.08,mutation types,quisque arcu libero rutrum ac lobortis vel dapibus at diam,3/6/2020
+74,2,ligula,substitution,274045,nonsense,0.39,mutation types,dui vel nisl duis ac nibh fusce lacus purus aliquet at,7/22/2001
+75,9,nisi,substitution,988679,nonsense,0.05,mutation types,feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio,5/27/2000
+76,10,vel,substitution,209590,missense,0.02,mutation types,nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales,1/1/2001
+77,8,blandit,substitution,847243,nonsense,0.53,mutation types,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis,4/27/2008
+78,3,tempor,insertion,60641,missense,0.86,mutation types,ligula vehicula consequat morbi a ipsum integer a nibh in,6/25/2008
+79,5,nisi,deletion,923092,nonsense,0.23,mutation types,erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper,9/12/2008
+80,10,nulla,insertion,165682,silent,0.08,mutation types,adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec,4/28/2016
+81,1,maecenas,deletion,811458,silent,0.97,mutation types,sed magna at nunc commodo placerat praesent blandit nam nulla integer pede,1/30/2005
+82,8,id,insertion,776132,missense,0.16,mutation types,dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet,1/23/2019
+83,10,donec,insertion,473682,silent,0.91,mutation types,tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero,11/16/2018
+84,9,ligula,insertion,326341,nonsense,0.2,mutation types,elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet,7/17/2019
+85,1,quisque,deletion,476545,missense,0.96,mutation types,blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu,1/24/2004
+86,2,convallis,insertion,895882,silent,0.34,mutation types,erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis,1/3/2002
+87,4,interdum,substitution,59590,missense,0.35,mutation types,lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla,1/16/2019
+88,3,hac,insertion,991114,missense,0.51,mutation types,mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac,1/2/2005
+89,8,vestibulum,deletion,322804,nonsense,0.68,mutation types,ut volutpat sapien arcu sed augue aliquam erat volutpat in,1/3/2010
+90,2,felis,insertion,543844,nonsense,0.13,mutation types,proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at,11/10/2008
+91,3,nisl,substitution,348458,silent,0.9,mutation types,nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis,3/1/2017
+92,8,in,insertion,673560,silent,0.19,mutation types,sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui,3/10/2021
+93,1,sodales,deletion,588979,nonsense,0.35,mutation types,porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris,10/23/2003
+94,10,vestibulum,substitution,671439,nonsense,0.13,mutation types,nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta,6/11/2009
+95,7,at,insertion,434978,missense,0.16,mutation types,pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla,7/11/2011
+96,2,aliquam,insertion,578483,silent,0.12,mutation types,non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis,8/14/2019
+97,8,est,deletion,250498,nonsense,0.3,mutation types,nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus,7/5/2007
+98,8,nisi,insertion,663763,missense,0.67,mutation types,ut at dolor quis odio consequat varius integer ac leo pellentesque,7/24/2021
+99,7,luctus,deletion,719637,silent,0.5,mutation types,in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl,11/10/2009
+100,1,et,insertion,300008,missense,0.28,mutation types,lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien,4/23/2010
